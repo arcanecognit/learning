@@ -1,31 +1,33 @@
+/* links */
 a {
 	color: red;
 }
-
+/* divisions */
 div {
 	border: 1px solid black;
 }
-
+/* links in divisions */
 div a {
 	color: green;
 }
-
+/* listings in an unordered list */
 ul li {
 	border: 1px solid black;
 }
-
+/* links in a listing */
 li a {
 	color: blue;
 }
-
+/*
 #exec-bio {
 	background-color: lightgray;
 }
-
+*/
+/* Biography Boxes */
 .bio-box {
 	border: 1px solid black;
 }
-
+/* links in Biography boxes */
 .bio-box a {
 	color: green;
 }
