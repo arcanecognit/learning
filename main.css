@@ -1,0 +1,34 @@
+a {
+	color: red;
+}
+
+div {
+	border: 1px solid black;
+}
+
+div a {
+	color: green;
+}
+
+ul li {
+	border: 1px solid black;
+}
+
+li a {
+	color: blue;
+}
+
+#exec-bio {
+	background-color: lightgray;
+}
+
+.bio-box {
+	border: 1px solid black;
+}
+
+.bio-box a {
+	color: green;
+}
+
+
+
